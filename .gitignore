@@ -1,0 +1,10 @@
+# 运行时数据（本机快照/报告，不入库）
+state/
+reports/
+*.log
+*.tmp
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
